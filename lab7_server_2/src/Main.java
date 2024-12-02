@@ -9,16 +9,8 @@ import java.util.concurrent.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
 
-
-    public class Inner{
-
-        interface  Interface{
-
-        }
-    }
     public static void main(String[] args) {
 
-        Main main = new Main();
 
 
 
